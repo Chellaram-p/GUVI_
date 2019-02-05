@@ -1,3 +1,3 @@
-a = str (input ("Enter the paragraph\n"))
+a = str (input (""))
 sub = '.'
 print ("No of lines:", a.count(sub))
